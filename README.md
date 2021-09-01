@@ -1,4 +1,4 @@
-# 21 MERN: Book Search Engine
+# 21 Book Search Engine
 
 ## Your Task
 
@@ -14,6 +14,8 @@ SO THAT I can keep a list of books to purchase
 ## Screenshots
 
 ![Shot](/Images/Shot1.png)
+![Shot](/Images/Shot2.png)
+![Shot](/Images/Shot3.png)
 
 
 ---
@@ -27,5 +29,6 @@ Github Profile: https://github.com/TMC-glitch
 
 ---
 ### Source & Code
-##### Deployed Site  
-##### Github Code 
+
+##### Deployed Site:
+##### Github Code: https://github.com/TMC-glitch/BookSearchEngine
